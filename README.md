@@ -3,7 +3,7 @@
 
 <div style="display: flex; align-items: center;">
   <div style="flex: 1;">
-    <p>Hello! I am Daniela, a passionate Data Analyst with a love for uncovering insights from data. I specialize in data visualization, statistical analysis, and machine learning. Let's connect and create something amazing!</p>
+    <p>Hello! I am Daniela, a passionate Data Analyst with a love for uncovering insights from data. I specialize in data visualization, statistical analysis, and machine learning. I am a constant learner who thrives on new challenges and enjoys exploring innovative solutions. Let's connect and create something amazing!</p>
   </div>
   <div style="flex: 1; text-align: right;">
     <div style="position: relative; width: 100%; height: 0; padding-top: 177.7778%; padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden; border-radius: 8px; will-change: transform;">
