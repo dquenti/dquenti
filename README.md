@@ -6,8 +6,9 @@
 <img align='right' src="https://github.com/dquenti/dquenti/blob/main/daniqimg.gif?raw=true" width="230">
 <p><em>Data Analyst</em></p>
 
-I am a passionate Data Analyst with a love for uncovering insights from data. I specialize in data visualization, statistical analysis, and machine learning. I am a constant learner who thrives on new challenges and enjoys exploring innovative solutions. Let's connect and create something amazing!
+I am Daniela, a passionate Data Analyst with enthusiasm for uncovering insights from data. I have experience in data visualization using PowerBI, SQL database management with SQLite, and Machine Learning libraries in Python (such as Scikit-learn, Seaborn, Matplotlib, Pandas, NumPy, among others). I am continually expanding my skills every day.
 
+I am a constant learner who thrives on new challenges and enjoys exploring innovative solutions. Let's connect and create something amazing!
   
 
 
