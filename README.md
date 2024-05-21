@@ -1,4 +1,6 @@
-<h2> Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="4%" alt="hai"> I'm Daniela! </h2>
+<h1 align="center">Hi there!👋, I'm <a href="https://100rabhcsmc.github.io/Me.io/" target="blank" style="color: violet;">
+Daniela</a></h1>
+
 <img align='right' src="https://github.com/dquenti/dquenti/blob/main/daniqimg.gif?raw=true" width="230">
 <p><em>Data Analyst</em></p>
 
