@@ -1,7 +1,7 @@
 <div style="display: flex; align-items: center;">
-  <div style="flex: 1;">
+  <div style="flex-shrink: 0;">
     <a href="https://daniqimg.my.canva.site/" target="_blank" rel="noopener">
-      <img src="https://github.com/dquenti/dquenti/blob/main/daniqimg.gif?raw=true" alt="Brown and Beige Illustrated Happy Working Instagram Story" width="100" style="float: left; margin-right: 20px;">
+      <img src="https://github.com/dquenti/dquenti/blob/main/daniqimg.gif?raw=true" alt="Brown and Beige Illustrated Happy Working Instagram Story" width="300" style="margin-right: 20px;">
     </a>
   </div>
   <div style="flex: 1;">
@@ -11,6 +11,7 @@
     <p>DQ</p>
   </div>
 </div>
+
 
 
 
