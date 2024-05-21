@@ -4,9 +4,9 @@
 
 
 <img align='right' src="https://github.com/dquenti/dquenti/blob/main/daniqimg.gif?raw=true" width="230">
-<p><em>Data Analyst</em></p>
 
-I am Daniela, a passionate Data Analyst with enthusiasm for uncovering insights from data. I have experience in data visualization using PowerBI, SQL database management with SQLite, and Machine Learning libraries in Python (such as Scikit-learn, Seaborn, Matplotlib, Pandas, NumPy, among others). I am continually expanding my skills every day.
+
+I am Daniela, a passionate **Data Analyst** with enthusiasm for uncovering insights from data. I have experience in data visualization using PowerBI, SQL database management with SQLite, and Machine Learning libraries in Python (such as Scikit-learn, Seaborn, Matplotlib, Pandas, NumPy, among others). I am continually expanding my skills every day.
 
 I am a constant learner who thrives on new challenges and enjoys exploring innovative solutions. Let's connect and create something amazing!
   
@@ -18,6 +18,7 @@ I am a constant learner who thrives on new challenges and enjoys exploring innov
 
 
 
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 
 <!--<h2> Hi there👋, I'm Daniela! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 <img align='right' src="https://www.canva.com/design/DAGFzp9RjGg/z0KVv3DLhFulemamg2eVPw/watch" width="230">
@@ -38,6 +39,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
