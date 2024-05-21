@@ -1,9 +1,18 @@
 <h2> Hi there👋, I'm Daniela! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 <p><em> Data Analyst </em></p>
 
-Hello! I am Daniela, a passionate Data Analyst with a love for uncovering insights from data. I specialize in data visualization, statistical analysis, and machine learning. I am a constant learner who thrives on new challenges and enjoys exploring innovative solutions. Let's connect and create something amazing!
+<div style="display: flex; align-items: center;">
+  <div style="flex: 1;">
+    <p>Hello! I am Daniela, a passionate Data Analyst with a love for uncovering insights from data. I specialize in data visualization, statistical analysis, and machine learning. I am a constant learner who thrives on new challenges and enjoys exploring innovative solutions. Let's connect and create something amazing!</p>
+  </div>
+  <div style="flex: 1; text-align: right;">
+    <a href="https://daniqimg.my.canva.site/" target="_blank" rel="noopener">
+      <img src="https://github.com/dquenti/dquenti/blob/main/daniqimg.gif?raw=true" alt="Brown and Beige Illustrated Happy Working Instagram Story" width="100" style="float: right;">
+    </a>
+    <p>dq</p>
+  </div>
+</div>
 
-[![Brown and Beige Illustrated Happy Working Instagram Story](https://github.com/dquenti/dquenti/blob/main/daniqimg.gif?raw=true)](https://daniqimg.my.canva.site/)
 
 
 
