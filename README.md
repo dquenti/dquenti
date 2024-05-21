@@ -1,4 +1,5 @@
-<h1 align="center">Hi there!👋, I'm <span style="color: #800080 !important;">Daniela</span></h1>
+<h1 align="center">Hi there!👋, I'm <span class="purple-text">Daniela</span></h1>
+
 
 
 
