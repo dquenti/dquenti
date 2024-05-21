@@ -2,7 +2,7 @@
 <img align='right' src="https://www.canva.com/design/DAGFzp9RjGg/z0KVv3DLhFulemamg2eVPw/watch" width="230">
 <p><em> Data Analyst </em></p>
 
-<a href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAGFzp9RjGg&#x2F;z0KVv3DLhFulemamg2eVPw&#x2F;watch?utm_content=DAGFzp9RjGg&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">Brown and Beige Illustrated Happy Working Instagram Story</a> de myriam marquez andrade
+
 
 <!--
 **dquenti/dquenti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
