@@ -1,4 +1,4 @@
-<h1 align="center">Hi there!👋, I'm <a href="https://100rabhcsmc.github.io/Me.io/" target="blank"><span style="color: #800080;">Daniela</span></a></h1>
+<h1 align="center">Hi there!👋, I'm <span style="color: #800080;">Daniela</span></a></h1>
 
 
 
