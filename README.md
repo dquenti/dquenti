@@ -3,9 +3,10 @@
 
 Hello! I am Daniela, a passionate Data Analyst with a love for uncovering insights from data. I specialize in data visualization, statistical analysis, and machine learning. I am a constant learner who thrives on new challenges and enjoys exploring innovative solutions. Let's connect and create something amazing!
 
-[![Brown and Beige Illustrated Happy Working Instagram Story](https://www.canva.com/design/DAGFzp9RjGg/z0KVv3DLhFulemamg2eVPw/watch?embed)](https://www.canva.com/design/DAGFzp9RjGg/z0KVv3DLhFulemamg2eVPw/watch?utm_content=DAGFzp9RjGg&utm_campaign=designshare&utm_medium=embeds&utm_source=link)
+[![Brown and Beige Illustrated Happy Working Instagram Story](https://daniqimg.my.canva.site/)](https://daniqimg.my.canva.site/)
 
 Brown and Beige Illustrated Happy Working Instagram Story by Myriam Marquez Andrade
+
 
 
 <!--<h2> Hi there👋, I'm Daniela! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
