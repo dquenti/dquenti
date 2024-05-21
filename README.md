@@ -1,4 +1,4 @@
-<h2> Hi, I'm Daniela! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+<h2> Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="4%" alt="hai">, I'm Daniela! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 <img align='right' src="https://github.com/dquenti/dquenti/blob/main/daniqimg.gif?raw=true" width="230">
 <p><em>Data Analyst</em></p>
 
