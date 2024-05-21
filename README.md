@@ -5,12 +5,13 @@
     <p>Hello! I am Daniela, a passionate Data Analyst with a love for uncovering insights from data. I specialize in data visualization, statistical analysis, and machine learning. I am a constant learner who thrives on new challenges and enjoys exploring innovative solutions. Let's connect and create something amazing!</p>
     <p>DQ</p>
   </div>
-  <div style="flex-shrink: 0; text-align: right;">
+  <div style="flex-shrink: 0; text-align: center;">
     <a href="https://daniqimg.my.canva.site/" target="_blank" rel="noopener">
-      <img src="https://github.com/dquenti/dquenti/blob/main/daniqimg.gif?raw=true" alt="Brown and Beige Illustrated Happy Working Instagram Story" width="300" style="margin-top: 20px;">
+      <img src="https://github.com/dquenti/dquenti/blob/main/daniqimg.gif?raw=true" alt="Brown and Beige Illustrated Happy Working Instagram Story" width="300" style="margin-top: 20px; margin-left: auto; margin-right: auto; display: block;">
     </a>
   </div>
 </div>
+
 
 
 
