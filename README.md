@@ -3,9 +3,9 @@
 
 Hello! I am Daniela, a passionate Data Analyst with a love for uncovering insights from data. I specialize in data visualization, statistical analysis, and machine learning. I am a constant learner who thrives on new challenges and enjoys exploring innovative solutions. Let's connect and create something amazing!
 
-[![Brown and Beige Illustrated Happy Working Instagram Story](https://github.com/daniq/daniqimg.gif)](https://daniqimg.my.canva.site/)
+[![Brown and Beige Illustrated Happy Working Instagram Story](https://github.com/dquenti/dquenti/blob/main/daniqimg.gif?raw=true)](https://daniqimg.my.canva.site/)
 
-Brown and Beige Illustrated Happy Working Instagram Story by Myriam Marquez Andrade
+
 
 
 
