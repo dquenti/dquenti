@@ -11,6 +11,8 @@ Hello! I am Daniela, a passionate Data Analyst with a love for uncovering insigh
 
 
 
+
+
 <!--<h2> Hi there👋, I'm Daniela! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 <img align='right' src="https://www.canva.com/design/DAGFzp9RjGg/z0KVv3DLhFulemamg2eVPw/watch" width="230">
 <p><em> Data Analyst </em></p>
