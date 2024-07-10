@@ -58,12 +58,7 @@ Hello! I'm Daniela Quenti, a Junior Data Analyst with a Master's degree in Data 
 I am a constant learner who thrives on new challenges and enjoys exploring innovative solutions. Let's connect and create something amazing!
 Feel free to reach out to me via [email](mailto:daniela.quenti@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/daniq/). Let's collaborate and transform data into actionable insights!
 
-
-
-<img align='right' src="https://github.com/dquenti/dquenti/blob/main/daniqimg.gif?raw=true" width="230">
-
-
-  
+ 
 
 
 
