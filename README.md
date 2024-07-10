@@ -1,5 +1,7 @@
 <h1 align="center">Hi there!👋, I'm Daniela</h1>
 
+<img align='right' src="https://github.com/dquenti/dquenti/blob/main/daniqimg.gif?raw=true" width="230">
+
 ## About Me
 
 Hello! I'm Daniela Quenti, a Junior Data Analyst with a Master's degree in Data Science & AI from Universitat de VIC & Nuclio Digital School. With a background in biochemistry and medical informatics, I have a strong foundation in data analysis, machine learning, and data visualization. My passion lies in transforming data into actionable insights to drive business decisions.
