@@ -1,14 +1,66 @@
 <h1 align="center">Hi there!👋, I'm Daniela</h1>
 
+## About Me
+
+Hello! I'm Daniela Quenti, a Junior Data Analyst with a Master's degree in Data Science & AI from Universitat de VIC & Nuclio Digital School. With a background in biochemistry and medical informatics, I have a strong foundation in data analysis, machine learning, and data visualization. My passion lies in transforming data into actionable insights to drive business decisions.
+
+- **Location:** Valparaíso, Chile
+- **Email:** daniela.quenti@gmail.com
+- **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/daniq/)
+- **GitHub:** [GitHub Profile](https://github.com/dquenti)
+
+## Skills
+
+- **Data Analysis:** Python (Pandas, Numpy, scikit-learn, seaborn, matplotlib)
+- **Database Management:** SQL (SQLite)
+- **Data Visualization:** PowerBI
+- **Programming Languages:** Python (Advanced), R (Intermediate), JavaScript (Basic)
+- **Tools:** Microsoft Office, Git (Version control & change management)
+- **Languages:** English (B2 - IELTS Score 6.0), Spanish (Native)
+
+## Key Projects
+
+### 1. DS Market Retail Analysis
+[DS Market Retail Analysis](https://github.com/dquenti/Data-Analytics-retail-company)
+- Conducted an in-depth exploratory data analysis on customer buying patterns.
+- Identified product segments using K-means clustering.
+- Developed sales prediction models with XGBoost, achieving a 95% confidence interval.
+
+### 2. Referential Model for Multidrug-resistant Bacteria Diagnosis
+[Master's Thesis Project](https://repositorio.uchile.cl/handle/2250/187782?show=full)
+- Developed a referential model for interoperable reports for the diagnosis of multidrug-resistant bacteria.
+- Utilized international standards such as LOINC, SNOMED-CT, and HL7-FHIR.
+
+## Professional Experience
+
+- **Freelance Project Management** (2021 - Present)
+  - Project planning and management for AQG Servicios Industriales Australes SPA.
+  - Monitoring compliance, performance evaluation, and reporting.
+
+- **Clinical Biochemist** (2021 - 2022)
+  - Managed and analyzed clinical data, generated reports to support medical decisions.
+  - Worked with respiratory viruses analysis at Van Buren Hospital & Eduardo Pereira Hospital.
+
+- **Research Assistant** (2016 - 2021)
+  - Conducted statistical analysis on biological and clinical research data at INTA - University of Chile.
+  - Provided guidance and feedback to intern students.
+
+## Education
+
+- **Master in Data Science & AI**, Universitat de VIC & Nuclio Digital School, Barcelona, Spain (2023 - 2024)
+- **MSc. in Medical Informatics**, Universidad de Chile, Chile (2019 - 2021)
+- **Biochemistry**, Pontificia Universidad Católica de Valparaíso, Chile (2008 - 2013)
+
+## Get in Touch
+
+I am a constant learner who thrives on new challenges and enjoys exploring innovative solutions. Let's connect and create something amazing!
+Feel free to reach out to me via [email](mailto:daniela.quenti@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/daniq/). Let's collaborate and transform data into actionable insights!
 
 
 
 <img align='right' src="https://github.com/dquenti/dquenti/blob/main/daniqimg.gif?raw=true" width="230">
 
 
-I am Daniela, a passionate **Data Analyst** with enthusiasm for uncovering insights from data. I have experience in data visualization using PowerBI, SQL database management with SQLite, and Machine Learning libraries in Python (such as Scikit-learn, Seaborn, Matplotlib, Pandas, NumPy, among others). I am continually expanding my skills every day.
-
-I am a constant learner who thrives on new challenges and enjoys exploring innovative solutions. Let's connect and create something amazing!
   
 
 
@@ -20,22 +72,4 @@ I am a constant learner who thrives on new challenges and enjoys exploring innov
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 
-<!--<h2> Hi there👋, I'm Daniela! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
-<img align='right' src="https://www.canva.com/design/DAGFzp9RjGg/z0KVv3DLhFulemamg2eVPw/watch" width="230">
-<p><em> Data Analyst </em></p>
 
-
-
-**dquenti/dquenti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
