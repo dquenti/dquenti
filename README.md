@@ -4,7 +4,7 @@
 
 ## About Me
 
-Hello! I'm Daniela Quenti, a Junior Data Analyst with a Master's degree in Data Science & AI from Universitat de VIC & Nuclio Digital School. With a background in biochemistry and medical informatics, I have a strong foundation in data analysis, machine learning, and data visualization. My passion lies in transforming data into actionable insights to drive business decisions.
+Hello! I'm Daniela Quenti, a Junior Data Analyst with a Master's degree in Data Science & AI. With a background in biochemistry and medical informatics, I have a strong foundation in data analysis and I'm passionate about machine learning and data visualization, continuously learning and expanding my knowledge each day. My passion lies in transforming data into actionable insights to drive valuable decisions.
 
 - **Location:** Valparaíso, Chile
 - **Email:** daniela.quenti@gmail.com
@@ -35,10 +35,6 @@ Hello! I'm Daniela Quenti, a Junior Data Analyst with a Master's degree in Data 
 
 ## Professional Experience
 
-- **Freelance Project Management** (2021 - Present)
-  - Project planning and management for AQG Servicios Industriales Australes SPA.
-  - Monitoring compliance, performance evaluation, and reporting.
-
 - **Clinical Biochemist** (2021 - 2022)
   - Managed and analyzed clinical data, generated reports to support medical decisions.
   - Worked with respiratory viruses analysis at Van Buren Hospital & Eduardo Pereira Hospital.
@@ -47,6 +43,12 @@ Hello! I'm Daniela Quenti, a Junior Data Analyst with a Master's degree in Data 
   - Conducted statistical analysis on biological and clinical research data at INTA - University of Chile.
   - Provided guidance and feedback to intern students.
 
+
+- **Freelance Project Management** (2021 - Present)
+  - Project planning and management for AQG Servicios Industriales Australes SPA.
+  - Monitoring compliance, performance evaluation, and reporting.
+ 
+    
 ## Education
 
 - **Master in Data Science & AI**, Universitat de VIC & Nuclio Digital School, Barcelona, Spain (2023 - 2024)
