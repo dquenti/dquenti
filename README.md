@@ -29,7 +29,7 @@ Hello! I'm Daniela Quenti, a Junior Data Analyst with a Master's degree in Data 
 - Developed sales prediction models with XGBoost, achieving a 95% confidence interval.
 
 ### 2. Referential Model for Multidrug-resistant Bacteria Diagnosis
-[Master's Thesis Project]([https://repositorio.uchile.cl/handle/2250/187782])
+[Master's Thesis Project](https://repositorio.uchile.cl/handle/2250/187782)
 - Developed a referential model for interoperable reports for the diagnosis of multidrug-resistant bacteria.
 - Utilized international standards such as LOINC, SNOMED-CT, and HL7-FHIR.
   
