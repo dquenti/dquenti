@@ -4,7 +4,10 @@
 
 ## About Me
 
-Hello! I'm Daniela Quenti, a Junior Data Analyst with a Master's degree in Data Science & AI. With a background in biochemistry and medical informatics, I have a strong foundation in data analysis and I'm passionate about machine learning and data visualization, continuously learning and expanding my knowledge each day. My passion lies in transforming data into actionable insights to drive valuable decisions.
+Hi, I’m Daniela 👩‍🔬📊
+I’m a data analyst junior passionate about turning complex information into clear and actionable solutions. I specialize in data analysis, visualization, and predictive models, always looking for ways to translate data into valuable and transformative insights.
+
+I’m driven by a constant desire to learn and share knowledge to build bridges of understanding. Here, you’ll find some of my projects focused on data analysis, interactive visualizations, and innovative tools that reflect my passion for solving problems and delivering value. Always open to new ideas and collaborations! 🚀
 
 - **Location:** Valparaíso, Chile
 - **Email:** daniela.quenti@gmail.com
