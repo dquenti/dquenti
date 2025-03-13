@@ -35,6 +35,12 @@ I’m driven by a constant desire to learn and share knowledge to build bridges 
 [Master's Thesis Project](https://repositorio.uchile.cl/handle/2250/187782)
 - Developed a referential model for interoperable reports for the diagnosis of multidrug-resistant bacteria.
 - Utilized international standards such as LOINC, SNOMED-CT, and HL7-FHIR.
+
+### 3. FineTuning-DataAugmentation
+[FineTuning-DataAugmentation](https://github.com/dquenti/FineTuning-DataAugmentation)
+- Applied Fine Tuning and Data Augmentation techniques to improve image classification using the Xception model and the CIFAR-10 dataset.
+- Utilized the Xception model pre-trained on ImageNet and fine-tuned it on the CIFAR-10 dataset, achieving a test accuracy of 94.12%.
+- Implemented data augmentation techniques such as rotations, shifts, zoom, and horizontal flipping to enhance dataset diversity and model robustness.
   
 ## Professional Experience
 
