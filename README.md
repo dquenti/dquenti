@@ -32,14 +32,6 @@
 
 <br>
 
-<div align="center">
-
-`✦` `✦` `✦`
-
-</div>
-
-<br>
-
 ## ✦ About me
 
 I'm **Daniela** - a biochemist and health informatician based in Santiago, Chile.
@@ -49,14 +41,6 @@ I lead oncology research projects at **FALP OECI Cancer Center**, one of the few
 My academic path spans molecular biology, a master's in health informatics (Universidad de Chile, **DAAD Fellow**), and research.
 
 > *What brings me here: health data contains insights that should reach further than the spreadsheet they live in.*
-
-<br>
-
-<div align="center">
-
-`✦` `✦` `✦`
-
-</div>
 
 <br>
 
@@ -81,14 +65,6 @@ Every notebook includes a **one-page policy brief**: key findings, evidence summ
 
 <br>
 
-<div align="center">
-
-`✦` `✦` `✦`
-
-</div>
-
-<br>
-
 ## ✦ Tools I use
 
 <div align="center">
@@ -107,14 +83,6 @@ Every notebook includes a **one-page policy brief**: key findings, evidence summ
 
 <br>
 
-<div align="center">
-
-`✦` `✦` `✦`
-
-</div>
-
-<br>
-
 ## ✦ Selected publications
 
 **2023** · Salgado-Canales D, **Quenti D**, et al. High-sugar diet dysregulates lipid and carbohydrate metabolism via JAK/STAT-dependent Upd2 expression. *Biochim Biophys Acta Mol Basis Dis.* [doi:10.1016/j.bbadis.2023.166731](https://doi.org/10.1016/j.bbadis.2023.166731)
@@ -124,14 +92,6 @@ Every notebook includes a **one-page policy brief**: key findings, evidence summ
 **2021** · Sanhueza S, Tobar N, Cifuentes M, **Quenti D**, et al. Lampaya Medicinalis Phil. decreases lipid-induced triglyceride accumulation and proinflammatory markers in human hepatocytes. *Int J Obes.* [doi:10.1038/s41366-021-00811-8](https://doi.org/10.1038/s41366-021-00811-8)
 
 **2018** · Latorre M, **Quenti D**, et al. The role of Fur in the transcriptional and iron homeostatic response of Enterococcus faecalis. *Front Microbiol.* [doi:10.3389/fmicb.2018.01580](https://doi.org/10.3389/fmicb.2018.01580)
-
-<br>
-
-<div align="center">
-
-`✦` `✦` `✦`
-
-</div>
 
 <br>
 
